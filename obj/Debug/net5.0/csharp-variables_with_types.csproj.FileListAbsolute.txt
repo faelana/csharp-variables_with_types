@@ -1,0 +1,16 @@
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\bin\Debug\net5.0\csharp-variables_with_types.exe
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\bin\Debug\net5.0\csharp-variables_with_types.deps.json
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\bin\Debug\net5.0\csharp-variables_with_types.runtimeconfig.json
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\bin\Debug\net5.0\csharp-variables_with_types.runtimeconfig.dev.json
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\bin\Debug\net5.0\csharp-variables_with_types.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\bin\Debug\net5.0\ref\csharp-variables_with_types.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\bin\Debug\net5.0\csharp-variables_with_types.pdb
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\obj\Debug\net5.0\csharp-variables_with_types.csprojAssemblyReference.cache
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\obj\Debug\net5.0\csharp-variables_with_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\obj\Debug\net5.0\csharp-variables_with_types.AssemblyInfoInputs.cache
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\obj\Debug\net5.0\csharp-variables_with_types.AssemblyInfo.cs
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\obj\Debug\net5.0\csharp-variables_with_types.csproj.CoreCompileInputs.cache
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\obj\Debug\net5.0\csharp-variables_with_types.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\obj\Debug\net5.0\ref\csharp-variables_with_types.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\obj\Debug\net5.0\csharp-variables_with_types.pdb
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-variables_with_types\obj\Debug\net5.0\csharp-variables_with_types.genruntimeconfig.cache
